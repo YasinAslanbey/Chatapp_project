@@ -1,0 +1,17 @@
+2024-06-05 01:13:13,717 root [39100:43428] ERROR    Error closing socket: [WinError 10057] Yuva baðlý olmadýðýndan ve (bir veri birimi yuvasýnda bir sento çaðrýsý kullanýrken) adres saðlanmadýðýndan bir veri gönderme veya alma isteðine izin verilmedi
+2024-06-05 01:13:27,018 root [42412:22324] INFO     Connected to server at 127.0.0.1:8888 as smdyc
+2024-06-05 01:13:27,019 root [42412:34464] DEBUG    Updated user list: smdyc
+2024-06-05 01:13:29,171 root [42412:22324] INFO     Sent message: asdfasfasdf
+2024-06-05 01:13:31,171 root [42412:22324] INFO     smdyc disconnected from server
+2024-06-06 16:34:29,424 root [7420:11184] ERROR    Error closing socket: [WinError 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+2024-06-06 16:35:54,712 root [2652:20008] ERROR    Error closing socket: [WinError 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+2024-06-06 16:45:05,440 root [5572:18392] ERROR    Error closing socket: 'NoneType' object has no attribute 'sendall'
+2024-06-06 16:46:11,609 root [3740:252] ERROR    Error closing socket: 'NoneType' object has no attribute 'sendall'
+2024-06-06 16:47:28,863 root [14380:17388] ERROR    Error closing socket: [WinError 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+2024-06-06 17:03:38,903 root [15392:7632] ERROR    Error closing socket: [WinError 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+2024-06-06 17:05:31,303 root [9556:11212] ERROR    Error closing socket: 'NoneType' object has no attribute 'sendall'
+2024-06-06 17:06:43,024 root [15848:18296] ERROR    Error closing socket: [WinError 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+2024-06-06 17:07:38,394 root [14684:812] INFO     Connected to server at 127.0.0.1:8888 as pipi
+2024-06-06 17:07:38,399 root [14684:4064] DEBUG    Updated user list: pipi
+2024-06-06 17:08:20,273 root [14684:812] INFO     pipi disconnected from server
+2024-06-06 19:20:49,836 root [9400:20068] ERROR    Error closing socket: [WinError 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied

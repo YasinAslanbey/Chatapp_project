@@ -1,0 +1,10 @@
+2024-06-05 00:52:24,276 root [41764:36928] ERROR    Error closing socket: [WinError 10057] Yuva baðlý olmadýðýndan ve (bir veri birimi yuvasýnda bir sento çaðrýsý kullanýrken) adres saðlanmadýðýndan bir veri gönderme veya alma isteðine izin verilmedi
+2024-06-05 01:02:40,958 root [40512:42180] INFO     Connected to server at 127.0.0.1:8888 as smsdfg
+2024-06-05 01:02:40,961 root [40512:34620] DEBUG    Updated user list: smsdfg
+2024-06-05 01:02:44,558 root [40512:42180] INFO     Sent message: sdfadfsad
+2024-06-05 01:02:59,087 root [40512:42180] INFO     Sent message: asdfasdf
+2024-06-05 01:05:58,780 root [38960:43444] INFO     Connected to server at 127.0.0.1:8888 as 123131
+2024-06-05 01:05:58,782 root [38960:40440] DEBUG    Updated user list: 123131
+2024-06-05 01:06:00,776 root [38960:43444] INFO     Sent message: asfadfasd
+2024-06-05 01:06:02,050 root [38960:43444] INFO     Sent message: asfasdfasd
+2024-06-05 01:06:03,148 root [38960:43444] INFO     123131 disconnected from server
